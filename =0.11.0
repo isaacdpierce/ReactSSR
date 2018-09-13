@@ -1,5 +1,0 @@
-+ eslint-plugin-prettier@2.6.2
-+ prettier@1.14.2
-added 1 package from 1 contributor, updated 1 package and audited 9195 packages in 9.974s
-found 404 vulnerabilities (394 low, 4 moderate, 6 high)
-  run `npm audit fix` to fix them, or `npm audit` for details
